@@ -81,15 +81,12 @@
         ]
     },
     "color-blindness-simulator": {
-        "name": "Color Blindness Simulator",
-        "link": "/color-blindness-simulator",
-        "description": "ABCDEF",
         "contributors": [
             {
                 "name": "ANKITA MISHRA",
                 "githubId": "ANKITAMISHRA29"
             },
-            {
+           {
                 "name": "Alistair Dsouza",
                 "githubId": "Alistair2522"
             },
@@ -108,6 +105,7 @@
             {
                 "name": "Nuthalapati Amulya",
                 "githubId": "nuthalapatiamulya"
+
             }
         ]
     },
