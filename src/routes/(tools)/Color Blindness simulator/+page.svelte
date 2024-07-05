@@ -20,7 +20,7 @@
 		  <button class="px-2 py-4 font-normal text-black dark:text-white bg-white dark:bg-gray-800 cursor-pointer border border-gray-200 dark:border-gray-700 rounded" on:click={() => applyFilter(filter)}>{filter}</button>
 		{/each}
 	  </div>
-  </div>
+</div>
   
   <style>
 	.buttons {
@@ -40,4 +40,4 @@
 	  max-width: 100%;
 	  max-height: 100%;
 	}
-  </style>
+</style>
