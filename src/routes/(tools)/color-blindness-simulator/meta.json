@@ -1,0 +1,27 @@
+{
+    "name": "Color Blindness Simulator",
+    "description":"ABCDEF",
+    "contributors": [{
+        "name": "ANKITA MISHRA",
+        "githubId": "ANKITAMISHRA29"
+    },{
+        "name": "Alistair Dsouza",
+        "githubId": "Alistair2522"
+    },
+    {
+        "name": "Colin Dsouza",
+        "githubId": "ColinD18"
+    },
+    {
+        "name": "Saloni Prakash Lilakar",
+        "githubId": "lilakar"
+    },
+    {
+        "name": "Khushboo Raina",
+        "githubId": "khushbooraina12"
+    },
+    {
+        "name": "Nuthalapati Amulya",
+        "githubId": "nuthalapatiamulya"
+    }]
+}
