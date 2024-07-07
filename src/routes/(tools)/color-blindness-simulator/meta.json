@@ -1,6 +1,6 @@
 {
     "name": "Color Blindness Simulator",
-    "description":"ABCDEF",
+    "description":"The Color Blindness Simulator tool allows you to simulate various types of color blindness (e.g., Protanopia, Deuteranomaly) on uploaded images. This can help users understand how color-blind people might experience the world.",
     "contributors": [{
         "name": "ANKITA MISHRA",
         "githubId": "ANKITAMISHRA29"
@@ -19,9 +19,5 @@
     {
         "name": "Khushboo Raina",
         "githubId": "khushbooraina12"
-    },
-    {
-        "name": "Nuthalapati Amulya",
-        "githubId": "nuthalapatiamulya"
     }]
 }
